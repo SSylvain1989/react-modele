@@ -44,8 +44,8 @@ Dans les deux cas, il s'agit essentiellement de copier/coller les parties intér
 Pour ce faire :
 
 ``` sh
-# Exemple : après avoir cloné un challenge dans le dossier mon-challenge/
-# direction le dossier du challenge
+# Exemple : après avoir cloné un challenge dans le dossier mon-projet/
+# direction le dossier du projet
 cd mon-challenge
 # copie des fichiers cachés et non-cachés présents à la racine du modèle
 # note : des alertes sont affichées à propos de dossiers ignorés, c'est normal
