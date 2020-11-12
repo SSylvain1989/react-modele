@@ -42,6 +42,7 @@ On peut se baser sur React-modele pour démarrer un *nouveau* projet, ou bien po
 Dans les deux cas, il s'agit essentiellement de copier/coller les parties intéressantes du modèle dans le dossier du projet/challenge, sans écraser d'éventuels fichiers spécifiques. 
 
 Pour ce faire :
+#### attention commandes depuis un terminal linux , donc si vous êtes sur windows vous pouvez installer Ubuntu depuis le store windows ( powerShell ne prend pas en charge les commandes ci-dessous)
 
 ``` sh
 # Exemple : après avoir cloné un challenge dans le dossier mon-projet/
